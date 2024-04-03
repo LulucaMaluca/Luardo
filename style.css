@@ -2,3 +2,9 @@ body{
     background-color: blanchedalmond;
  color: brown;
 }span{color: rgb(108, 160, 238);}
+
+.contagem{
+    background-color: aquamarine;
+    padding: 20px 0;
+
+}
