@@ -13,3 +13,8 @@ body{
     padding: 16px;
     font-size: 18px;
 }
+.ativo{
+    background-color: azure;
+    color: brown;
+    border-bottom: 3px solid rgb(248, 226, 178);
+}
