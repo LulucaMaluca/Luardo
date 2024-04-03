@@ -7,5 +7,8 @@ body{
     background-color: rgb(248, 226, 178);
     padding: 20px 0;
     text-align: center;
-
+}
+.contagem{
+    color: cornflowerblue;
+    padding: 20px;
 }
