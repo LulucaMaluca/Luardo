@@ -20,4 +20,4 @@ const tempoObjetivo1 = new Date ('2024-04-16T00:00:00');
 
 let TempoAtual = new Date ();
 
-cntadores[0].textContent = tempoObjetivo1 - TempoAtual;
+contadores[0].textContent = tempoObjetivo1 - TempoAtual;
