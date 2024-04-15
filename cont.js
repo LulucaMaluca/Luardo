@@ -15,4 +15,5 @@ botoes[i].onclick = function(){
 
 //botoes[i].classList.remove('ativo');
 }
-const contadores = document.querySelectorAll('.contador')
+const contadores = document.querySelectorAll('.contador');
+const tempoObjetivo1 = new Date ('2024-04-16T00:00:00');
