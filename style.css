@@ -19,5 +19,10 @@ body{
     border-bottom: 3px solid rgb(18, 161, 102);
 }
 .aba-conteudo{
-    
+    display: none;   
+}
+
+.ativa{
+    display: block;
+    color: rgb(178, 238, 248) ;
 }
